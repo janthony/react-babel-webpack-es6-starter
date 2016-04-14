@@ -1,7 +1,9 @@
 {
-  "name": "react-eggheads",
+  "name": "react-babel-webpack-es6",
   "version": "1.0.0",
-  "description": "",
+  "author": "Jerome Anthony",
+  "email": "jerome.pradeep+dev@gmail.com",
+  "description": "React starter project with babel for es6 and webpack",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
